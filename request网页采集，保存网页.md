@@ -21,8 +21,9 @@ with open(keyword+'.html','w',encoding='utf-8') as f:
     print(f'已下载...{keyword}')
 ```
 
-![image-20240722110745920](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20240722110745920.png)
+![image](https://github.com/user-attachments/assets/d6579c86-5375-4be8-8547-968b588b7d04)
+
 
 打开保存的文件，在浏览器中打开,如图:
 
-![image-20240722110848495](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20240722110848495.png)
+![image](https://github.com/user-attachments/assets/358ca58b-40d1-4969-a062-10ba8d0fa8ef)
