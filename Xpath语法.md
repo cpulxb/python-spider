@@ -14,13 +14,14 @@ XPath语法:XML Path Language是一门在XML和HTML文档中查找信息的语�
 | ..       | 选取当前结点的父节点                                     |
 | @        | 选取属性                                                 |
 
-![image-20240801163844208](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20240801163844208.png)
+![image](https://github.com/user-attachments/assets/6dafdc62-9b0a-4f39-ada1-d237468b86fb)
 
 ```
 谓语用来查找某个特定的结点或包含某个指定的值的结点。谓语被嵌在方括号中
 ```
 
-![image-20240801164020337](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20240801164020337.png)
+![image](https://github.com/user-attachments/assets/b24456a6-f644-48a2-97c1-2141feab8840)
+
 
 注意:Xpath语法中查找第一个元素是从下标1开始的
 
@@ -28,6 +29,7 @@ XPath语法:XML Path Language是一门在XML和HTML文档中查找信息的语�
 
 选取未知节点
 
-![image-20240801165107747](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20240801165107747.png)
+![image](https://github.com/user-attachments/assets/3537c612-17e7-44bd-9584-700c5639a890)
 
-![image-20240801165225440](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20240801165225440.png)
+
+![image](https://github.com/user-attachments/assets/b4ce76f8-b2f7-4bd5-8d44-fd9a2e9823e3)
